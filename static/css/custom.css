@@ -1,0 +1,33 @@
+@import url("https://cdn.jsdelivr.net/npm/@kfonts/ridi-batang@0.2.0/index.min.css");
+
+
+:root {
+  --ls-font-family: "리디바탕", "RIDIBatang", serif;
+}
+
+/* 노란 박스 스타일 - quote 블럭에 적용 */
+.block-content .custom-toc {
+  background-color: #fff7d6;
+  border-left: 5px solid #f2c200;
+  padding: 8px 12px;
+  border-radius: 6px;
+  margin: 8px 0;
+}
+
+/* Block reference styling to appear like external links */
+.block-ref {
+  color: var(--ls-link-text-color, #337ab7); /* 기본 링크 색상 또는 원하는 파란색 */
+  text-decoration: underline;
+  border-bottom: none; /* 기본 밑줄이 있다면 제거 */
+}
+
+/* 마우스 오버 시 색상 변경 (선택 사항) */
+.block-ref:hover {
+  color: var(--ls-link-text-hover-color, #23527c); /* 마우스 오버 시 색상 */
+}
+
+/* 블록 참조 안의 텍스트 색상도 일관되게 적용 */
+.block-ref > span {
+  color: inherit !important; /* 부모 요소의 색상을 상속 */
+}
+
