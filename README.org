@@ -1,9 +1,9 @@
 #+HTML_HEAD: <style>
 #+HTML_HEAD: img { max-width: 400px; height: auto; }
 #+HTML_HEAD: </style>
-#+options: toc:t
-# 또는 구체적인 깊이를 지정 (3단계까지만 표시)
-#+options: toc:3
+
+* 목차 :TOC_2_gh:
+
  개요 : 삥우린 생활과 관련하여 알면 도움이 될만한 내용들을 적어둔 페이지입니다.
 - 사용법: 파란색 글씨를 클릭하면 링크나 다른 페이지로 이동.
 
