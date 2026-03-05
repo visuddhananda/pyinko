@@ -19,7 +19,7 @@
 
 * 입소 규칙
 
-[[file:pyinko-main/note/입소규칙.org][승원 입소 규칙]]
+[[file:note/입소규칙.org][승원 입소 규칙]]
 
 
 * 삥우린 일정 캘린더 및 지도
