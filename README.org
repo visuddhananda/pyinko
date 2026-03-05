@@ -1,7 +1,8 @@
 #+HTML_HEAD: <style>
 #+HTML_HEAD: img { max-width: 400px; height: auto; }
 #+HTML_HEAD: </style>
-#+html: <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"> html: <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white">
+#+html: <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
+#+html: <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white">
 #+OPTIONS: num:t ; 문서 상단에 자동 목차 번호 붙이기
 * 목차 :TOC_2_gh:
 - [[#삥우린-일정-캘린더][삥우린 일정 캘린더]]
@@ -46,7 +47,7 @@
   - 주의사항
     - 주요 일정 공지는 공양간 게시판에 게시되거나 바이버 채널(FIRE
       Fighter) 을 통해 미리 공지됩니다. 바이버가 설치되어 있다면
-      통역자나 종무소 빅쿠에게 해당 채널에 초대해달라고 문의하기
+      종무소 빅쿠에게 해당 채널에 초대해달라고 문의하기
       바랍니다.
     - 모든 일정들은 지도 법사의 일정에 따라 변경될 수 있습니다.
     - 위 시간들은 써머타임 적용 시 시간들입니다. 빠띠목카 찬팅을 제외한
@@ -100,6 +101,7 @@
     - 빅쿠 약품 선반이 있습니다. 간단한 약은 여기서 취할 수 있습니다.
     - 빤스꿀라(paṃsukūla) 가사들이 있습니다.
 ***  구 법당(Old meditation hall)
+    - 빅쿠들이 주로 공양하는 곳
     - 보통 법랍 순으로 자기 자리가 있습니다.
     - 빅쿠 상기까 물품 테이블이 있습니다. 본인에게 남은 공양 음식을 올려
       놓거나 본인이 취할 수 있습니다.
