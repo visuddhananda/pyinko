@@ -17,7 +17,8 @@
 - [[#footnotes][Footnotes]]
 
 * 삥우린 일정 캘린더
-[캘린더를 보려면 클릭하세요](https://calendar.google.com/calendar/u/0?cid=NTRlZTRhNmQzMTBjYjFmYmU4NTQ1MjUxZWQzMDM0NDQ0NDcxNzkwNzZiMmI2MjQ4N2RiYWUzMzA1ZTE4YzFmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+[[https://calendar.google.com/calendar/u/0?cid=NTRlZTRhNmQzMTBjYjFmYmU4NTQ1MjUxZWQzMDM0NDQ0NDcxNzkwNzZiMmI2MjQ4N2RiYWUzMzA1ZTE4YzFmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t][캘린더를 보려면 클릭하세요]]
 
 *  하루 일과
 
