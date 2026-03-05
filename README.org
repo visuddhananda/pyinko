@@ -22,7 +22,8 @@
 
 
 지도
-file:asset/IMG_20260305_120815.png
+
+[[file:asset/IMG_20260305_120815.png]]
 
 *  하루 일과
 
