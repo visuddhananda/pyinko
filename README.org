@@ -5,7 +5,7 @@
 #+html: <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white">
 #+OPTIONS: num:t ; 문서 상단에 자동 목차 번호 붙이기
 * 목차 :TOC_2_gh:
-- [[#삥우린-일정-캘린더][삥우린 일정 캘린더]]
+- [[#삥우린-일정-캘린더-및-지도][삥우린 일정 캘린더 및 지도]]
 -  [[#하루-일과][하루 일과]]
 -  [[#승원-주요-일정][승원 주요 일정]]
 -  [[#법문-및-수업][법문 및 수업]]
@@ -16,9 +16,13 @@
 -  [[#관련-사이트들][관련 사이트들]]
 - [[#footnotes][Footnotes]]
 
-* 삥우린 일정 캘린더
+* 삥우린 일정 캘린더 및 지도
 
 [[https://calendar.google.com/calendar/u/0?cid=NTRlZTRhNmQzMTBjYjFmYmU4NTQ1MjUxZWQzMDM0NDQ0NDcxNzkwNzZiMmI2MjQ4N2RiYWUzMzA1ZTE4YzFmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t][캘린더를 보려면 클릭하세요]]
+
+
+지도
+file:asset/IMG_20260305_120815.png
 
 *  하루 일과
 
