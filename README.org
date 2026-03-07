@@ -4,6 +4,8 @@
 #+html: <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
 #+html: <img src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=white">
 #+OPTIONS: num:t ; 문서 상단에 자동 목차 번호 붙이기
+수정 날짜:<2026-03-07 토>
+
 * 목차 :TOC_2_gh:
 - [[#입소-규칙][입소 규칙]]
 - [[#삥우린-일정-캘린더-및-지도][삥우린 일정 캘린더 및 지도]]
