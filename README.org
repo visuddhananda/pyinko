@@ -170,18 +170,21 @@
 
     - 택배 보낼 일이 생겼습니다.
       
-        1. (송신자) 한국에서 다음 주소로 보낸다.
-	   [[file:asset/address.jpeg]]
-        - 삥우린 주소: 31/4 milestone, near KyinGaNaing Village,
-          ThoneHtaung Village Group, Pyin Oo Lwin Township 05081
+      1. (송신자) 한국에서 다음 주소로 보낸다.
+	 [[file:asset/address.jpeg]]
+      2. 삥우린 주소: 31/4 milestone, near KyinGaNaing Village,
+         ThoneHtaung Village Group, Pyin Oo Lwin Township 05081
 
-        2. [@2] (수신자) 택배 트래킹 넘버를 통해 '17
-           track(안드로이드)'와 같은 앱으로 상태 확인.
+      2. [@2] (수신자) 택배 트래킹 넘버를 통해 '17
+         track(안드로이드)'와 같은 앱으로 상태 확인.
 
-        3. [@3] (무조건) 배송실패가 뜸. 양곤에 택배가 잡혀 있기 때문
+      3. [@3] (무조건) 배송실패가 뜸. 양곤에 택배가 잡혀 있기 때문
 
-        4. [@4] 그 때 재가자 종무소에 가서 자기에게 택배가 왔음을
-           깝삐야에게 알림.
+      4. [@4] 그 때 재가자 종무소에 가서 자기에게 택배가 왔음을
+         깝삐야에게 알림.
+    - 출가하려고 합니다.
+      - [[#빅쿠편람][빅쿠 편람]]    90페이지부터 참조
+      - 종무소에서 상담
 *** 비자 연장
 **** 빅쿠
       - 최신 내용은 상가 종무소서 확인 바랍니다
@@ -195,6 +198,9 @@
       비왐사로부터 결제를 받습니다.
     - 70세 이상은 듀티 면제
 *** 세나니 승원 출판물 PDF (클릭하면 구글 링크로 이동)
+:PROPERTIES:
+:ID:       c94959cb-6930-4e0d-92e0-6aa67f593f4f
+:END:
     - [[https://drive.google.com/file/d/1wpjVp4RtLZY1nKxoGHiZDzGjkj-jQ2cg/view?usp=drive_link][위나야
       1]]
       - The Buddhist Monastic Code, Volumes I(Ṭhānissaro Bhikkhu)을
@@ -211,7 +217,12 @@
     - [[https://drive.google.com/file/d/1dEXBZu1HbCUucnKHrprDyKCqgu3-Q5w9/view?usp=drive_link][빠띠목카
       빨리어 영어 한글]]
       - 빠띠목카 227계를 빨리어, 영어, 한글로 번역한 문서
+        :PROPERTIES:
 
+    - [[http://drive.google.com/file/d/1JZzAtsFtE3Tr2zUDysXJqpRxWOwOFLGM/view?usp=drive_link][빅쿠 편람]
+       :CUSTOM_ID: 빅쿠편람
+  :END:
+        - 빅쿠 관련 예법과 절차들을 모아놓은 매뉴얼
 *** 상기까 아이템 [fn:4]
     - (빅쿠) 상가 소속 빅쿠들이 쓸 수 있는 필수품입니다. 상기까 테이블에 본인이
       보시하고 싶은 필수품을 올려놓을 수도 있습니다. 공양간, 구 명상홀에
