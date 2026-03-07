@@ -183,7 +183,7 @@
       4. [@4] 그 때 재가자 종무소에 가서 자기에게 택배가 왔음을
          깝삐야에게 알림.
     - 출가하려고 합니다.
-      - [[#빅쿠편람][빅쿠 편람]]    90페이지부터 참조
+      - [[빅쿠편람]]   90페이지부터 참조
       - 종무소에서 상담
 *** 비자 연장
 **** 빅쿠
@@ -217,12 +217,9 @@
     - [[https://drive.google.com/file/d/1dEXBZu1HbCUucnKHrprDyKCqgu3-Q5w9/view?usp=drive_link][빠띠목카
       빨리어 영어 한글]]
       - 빠띠목카 227계를 빨리어, 영어, 한글로 번역한 문서
-        :PROPERTIES:
 
-    - [[http://drive.google.com/file/d/1JZzAtsFtE3Tr2zUDysXJqpRxWOwOFLGM/view?usp=drive_link][빅쿠 편람]
-       :CUSTOM_ID: 빅쿠편람
-  :END:
-        - 빅쿠 관련 예법과 절차들을 모아놓은 매뉴얼
+    - <<빅쿠편람>>[[http://drive.google.com/file/d/1JZzAtsFtE3Tr2zUDysXJqpRxWOwOFLGM/view?usp=drive_link][빅쿠 편람]
+      - 빅쿠 관련 예법과 절차들을 모아놓은 매뉴얼
 *** 상기까 아이템 [fn:4]
     - (빅쿠) 상가 소속 빅쿠들이 쓸 수 있는 필수품입니다. 상기까 테이블에 본인이
       보시하고 싶은 필수품을 올려놓을 수도 있습니다. 공양간, 구 명상홀에
